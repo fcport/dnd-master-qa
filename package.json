@@ -18,6 +18,12 @@
     "@angular/platform-browser": "^18.0.0",
     "@angular/platform-browser-dynamic": "^18.0.0",
     "@angular/router": "^18.0.0",
+    "@tensorflow/tfjs": "^4.20.0",
+    "compromise": "^14.13.0",
+    "lunr": "^2.3.9",
+    "pdf-lib": "^1.17.1",
+    "pdf.js": "^0.1.0",
+    "primeng": "^17.18.1",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
